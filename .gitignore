@@ -1,6 +1,7 @@
+*.egg
+*.egg-info
 *.pyc
 *.pyo
 build/
 dist/
-*.egg
-*.egg-info
+venv/
